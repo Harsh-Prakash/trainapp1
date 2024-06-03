@@ -1,0 +1,132 @@
+{
+  "status": true,
+  "code": 200,
+  "message": "Success.",
+  "error": "",
+  "data": {
+    "boardingInfo": {
+      "trainId": 473,
+      "stationId": 965,
+      "arrivalTime": "19:25:00",
+      "departureTime": "19:35:00",
+      "haltTime": "00:10:00",
+      "stationCode": "PNBE",
+      "stationName": "Patna Jn",
+      "travellingDay": 1,
+      "distance": "3",
+      "platform": "1"
+    },
+    "destinationInfo": {
+      "trainId": 473,
+      "stationId": 3206,
+      "arrivalTime": "07:40:00",
+      "departureTime": "07:40:00",
+      "haltTime": "00:00:00",
+      "stationCode": "NDLS",
+      "stationName": "New Delhi",
+      "travellingDay": 2,
+      "distance": "1001",
+      "platform": "7"
+    },
+    "seatInfo": {
+      "coach": "CNF",
+      "berth": "0",
+      "noOfSeats": 2
+    },
+    "trainInfo": {
+      "trainNo": "12309",
+      "name": "RJPB TEJAS RAJ",
+      "boarding": "PNBE",
+      "destination": "NDLS",
+      "dt": "09-06-2024",
+      "boardingDayCount": null,
+      "fromStationName": null,
+      "toStationName": null,
+      "origin": null
+    },
+    "passengerInfo": [
+      {
+        "currentCoach": "CNF",
+        "currentBerthNo": "0"
+      },
+      {
+        "currentCoach": "CNF",
+        "currentBerthNo": "0"
+      }
+    ],
+    "trainRoutes": [
+      {
+        "trainId": 473,
+        "stationId": 975,
+        "arrivalTime": "19:10:00",
+        "departureTime": "19:10:00",
+        "haltTime": "00:00:00",
+        "stationCode": "RJPB",
+        "stationName": "Rajendranagar T",
+        "travellingDay": 1,
+        "distance": "0",
+        "platform": "1"
+      },
+      {
+        "trainId": 473,
+        "stationId": 965,
+        "arrivalTime": "19:25:00",
+        "departureTime": "19:35:00",
+        "haltTime": "00:10:00",
+        "stationCode": "PNBE",
+        "stationName": "Patna Jn",
+        "travellingDay": 1,
+        "distance": "3",
+        "platform": "1"
+      },
+      {
+        "trainId": 473,
+        "stationId": 1002,
+        "arrivalTime": "22:12:00",
+        "departureTime": "22:22:00",
+        "haltTime": "00:10:00",
+        "stationCode": "DDU",
+        "stationName": "DD Upadhyaya Jn",
+        "travellingDay": 1,
+        "distance": "215",
+        "platform": "4"
+      },
+      {
+        "trainId": 473,
+        "stationId": 8395,
+        "arrivalTime": "00:10:00",
+        "departureTime": "00:12:00",
+        "haltTime": "00:02:00",
+        "stationCode": "PRYJ",
+        "stationName": "Prayagraj Junction",
+        "travellingDay": 2,
+        "distance": "367",
+        "platform": "1"
+      },
+      {
+        "trainId": 473,
+        "stationId": 1897,
+        "arrivalTime": "02:15:00",
+        "departureTime": "02:20:00",
+        "haltTime": "00:05:00",
+        "stationCode": "CNB",
+        "stationName": "Kanpur Central",
+        "travellingDay": 2,
+        "distance": "561",
+        "platform": "1"
+      },
+      {
+        "trainId": 473,
+        "stationId": 3206,
+        "arrivalTime": "07:40:00",
+        "departureTime": "07:40:00",
+        "haltTime": "00:00:00",
+        "stationCode": "NDLS",
+        "stationName": "New Delhi",
+        "travellingDay": 2,
+        "distance": "1001",
+        "platform": "7"
+      }
+    ]
+  }
+}
