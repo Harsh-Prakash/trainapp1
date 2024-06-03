@@ -131,7 +131,7 @@ const Home = () => {
                 <div>{sample3.data.train_start_date}</div>
               </div>
             </div>
-            <div className="flex mt-10 ">
+            <div className=" flex mt-10 ">
               <div className="mx-2">
                 Current Station
                 <div>{sample3.data.current_location_info[0].message}</div>
